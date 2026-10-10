@@ -1,0 +1,18 @@
+- Work with me step by step, and only do what I tell you in each step. ok?
+- Step 1, the gitgub repo, does it make sense to have one repo for all tasks?
+- in one sentence, what should this include? ai-usage.md  
+- how is it recorded, do I add them manually or like the AI integration tool does that?
+- I'll create the github repo first
+- what shall I name the repo
+- are you recording the time spent so far?
+- repo done
+- Let's start with task 1, can you paste it here?
+- Now let's start with md file for the test cases, I need your help only with the formatting, I need to draw a table with test case number, positive/negative/title
+- according to our plan, give me our table prepared to write the 12 scenarios, fill only the columns before title
+- Study my thinkking pattern and writing style here? 
+- complete this table accordingly...
+- We're gonna make some alterations, only do what I tell you and don't improvise
+- Let's rewrite TC no4 to be make multiple transfers that exceed the daily limit but within the one transfer limit, once limit is reached expected error message in the last invalid one]
+- number 6 sorry not 4 why didn't you tell me
+- Add the section titles remaining also> 1.1 — Questions and assumptions 1.2 — Risk assessment 1.4 — Coverage decisions
+- 
