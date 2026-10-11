@@ -15,4 +15,14 @@
 - Let's rewrite TC no4 to be make multiple transfers that exceed the daily limit but within the one transfer limit, once limit is reached expected error message in the last invalid one]
 - number 6 sorry not 4 why didn't you tell me
 - Add the section titles remaining also> 1.1 — Questions and assumptions 1.2 — Risk assessment 1.4 — Coverage decisions
-- 
+- .....
+- Final part: Task 5 — Quality Strategy & R...
+- ask me each point and I'll answer 
+- First of all theis is a very messy situation and wouldn't reach this state out of no where. If 2 of my 4 recent engineers have joined 5 weeks ago, they should know enough to help with a lot. I might use my 2 more experienced engineers to focus on test case design and guiding only with manual execution, in parallel they's be checking the pipeline failures.
+- Assuming I'm dealing with a mature and cooperative client/internal management I wouldn't recomment a go I would first highlight the risk and discuss with the dev leads, as there is also a bench mark for the unit tests
+- I would suggest breaking down the release they give me priorities and delay applicable features, Maybe also dev could join the testing efforts
+-  I would drop full UI regression and only run e2e sanity, while run full API suite
+- I wouldn't say green :D
+- not dsure to be honest, depends on his engagement level. Usually they're engages enough to know detailed status even if they attack us :DRunning a daily API suite almos costs nothing, assuming there isn't a new deployment every 5 mins or a database crash on the testing env
+- usually Jira dashboards cover and visualize all the above
+- Draft plz.

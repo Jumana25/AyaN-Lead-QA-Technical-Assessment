@@ -2,7 +2,7 @@
 
 ## 1.1 — Questions and assumptions
 
-> * Where is the OTP generated? Is it possible to simulate generation malfunction from the server?
+> * Where is the OTP generated? Is it possible to simulate generation malfunction from the server? Assuming the OTP is generated from the same system.
 > * What happens If the user doesn't receive the OTP, would there be an option to resend? what's the resend limit?
 > * For the testing Engineer: Could the daily limit/fees be configured?
 > * For the testing Engineer: Could the balance be manipulated from the database?
@@ -15,6 +15,9 @@
     glitch: the transaction is done and debited, however, it is put on hold and never reaches the other party.
 > * What if a fee changes, in which time zone shall the new value be applied? Assuming the customer is in a different
     time zone from the beneficiary.
+> * If both customer and beneficiary accounts belong to the same person, would the same fee apply?
+> * Is there a fee exception for certain types of accounts or certain type of transaction?
+> * What if the beneficiary account is blacklisted at any point in the transaction?                                                                                                                                                                                                                                                                                                                                          
 
 ## 1.2 — Risk assessment
 
